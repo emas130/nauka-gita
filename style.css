@@ -1,0 +1,11 @@
+body {
+   background: #333b3e;
+   color: #ed9e0d;
+}
+
+.container {
+   margin: 0 auto;
+   max-width: 600px;
+   width: 100%;
+   text-align: center;
+}
